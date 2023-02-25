@@ -210,6 +210,7 @@ html {
 }
 
 /*-------------------- Section présentation --------------------*/
+
 #pres {
     height: 100vh;
     width: 100%;
@@ -251,6 +252,8 @@ p {
     font-size: 14px;
 }
 
+/*-------------------- Section à propos --------------------*/
+
 #apropos {
     height: 100vh;
     width: 100%;
@@ -258,6 +261,7 @@ p {
     justify-content: center;
     margin: 0;
     padding: 0;
+    background-color: red;
 }
 
 #apropos img {
@@ -288,6 +292,8 @@ p {
     font-size: 14px;
 }
 
+/*-------------------- Section compétence --------------------*/
+
 #competence {
     height: 100vh;
     width: 100%;
@@ -295,6 +301,8 @@ p {
     justify-content: center;
     margin: 0;
     padding: 0;
+    background-color: blue;
+
 }
 
 #competence img {
@@ -325,6 +333,8 @@ p {
     font-size: 14px;
 }
 
+/*-------------------- Section portfolio --------------------*/
+
 #portfolio {
     height: 100vh;
     width: 100%;
@@ -332,6 +342,7 @@ p {
     justify-content: center;
     margin: 0;
     padding: 0;
+    background-color: violet;
 }
 
 #portfolio img {
@@ -362,6 +373,8 @@ p {
     font-size: 14px;
 }
 
+/*-------------------- Section contact --------------------*/
+
 #contact {
     height: 100vh;
     width: 100%;
@@ -369,6 +382,7 @@ p {
     justify-content: center;
     margin: 0;
     padding: 0;
+    background-color: yellow;
 }
 
 #contact img {
